@@ -1,2 +1,2 @@
-# ccgrid2019
-This is the repository of the models in the accepted paper at CCGrid 2019.
+#Streaming Video Problems
+This is the repository of the models of the Streaming Video Problems.
